@@ -1,0 +1,59 @@
+#new-project > .box-7 {
+	max-width: 1170px;
+	height: 390px;
+	width: 100%;
+	background-color: #19283f;
+	margin: 0 auto;
+}
+
+#new-project > .box-7 > .headline > h2 {
+	font-size: 35px;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 500;
+	/*padding-bottom: 20px;*/
+	padding: 100px 0px 0px 0px;
+}
+
+#new-project > .box-7 > .headline > h3 {
+	font-size: 15px;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+	color: #a8b9c0;
+	position: relative;
+}
+
+#new-project > .box-7 > .headline {
+	display: block;
+	padding: 50px 0px 0px 0px;
+	text-align: center;
+}
+
+#new-project > .box-7 > .headline > h2 {
+	color: #f0f8fb;
+	font-size: 35px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+}
+
+#new-project > .box-7 > .headline > h3 {
+	color: #a8b9c0;
+	font-size: 15px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+	padding: 20px
+}
+
+#new-project > .box-7 > .headline > .headline_button {
+	width: 190px;
+	height: 45px;
+	background-color: #ff3150;
+	border-radius: 20px;
+	color: #ffc501;
+	font-family: 'Roboto', sans-serif;
+	font-size: 15px;
+	font-weight:500;
+	border: 1px solid black;
+	margin: 25px 0px 0px 0px;
+}

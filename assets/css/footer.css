@@ -1,0 +1,141 @@
+.footer > .box-10 {
+	max-width: 1170px;
+	height: 360px;
+	width: 100%;
+	background-color: #19283f;
+	margin: 0 auto;
+	display: block;
+}
+
+.footer > .box-10 > .carts > .information{
+	height: 320px;
+    width: 290px;
+    box-sizing: border-box;
+    background-color: #19283f;
+    border-bottom: 1px solid #eff7fa;
+    text-align: center;
+    display: inline-block;
+}
+
+.footer > .box-10 > .carts > .information {
+	margin: 1px;
+	float: left;
+	text-align: center;
+	background-color: #19283f
+}
+
+.footer > .box-10 > .carts > .information > .logo {
+	display: inline-block;
+	font-size: 30px;
+	font-family: 'Yesteryear', sans-serif;
+	padding: 20px 0;
+	padding-right: 0px;
+	background-color: #19283f;
+}
+
+.footer > .box-10 > .carts > .information > .logo > #logo {
+	color: #fff;
+}
+
+.footer > .box-10 > .carts > .information > .logo > #logo:hover,
+.footer > .box-10 > .carts > .information > .logo > #logo:visited {
+	text-decoration: none;
+}
+
+.footer > .box-10 > .carts > .information > .logo > #logo > span {
+	display: block; 
+	color: #00c7c0;
+	font-size: 6px;
+	font-family: 'Roboto', sans-serif;
+	letter-spacing: 6px;
+	padding-left: 5px;
+}
+
+.footer > .box-10 > .carts > .information > .logo h3 {
+	font-family: 'Roboto', sans-serif;
+	font-size: 13px;
+	color: #a8b9c0;
+	padding: 29px;
+}
+
+.footer > .box-10 > .carts > .information > .logo h3 span {
+	color: #00c7c0;
+}
+
+.footer .box-10 .carts .information > .logo h3 span.bondi {
+	color: #ffc501;
+}
+
+.footer > .box-10 > .carts > .information > .links > h2,
+.footer > .box-10 > .carts > .information > .about > h2,
+.footer > .box-10 > .carts > .information > .contact > h2 {
+	font-family: 'Roboto', sans-serif;
+	font-size: 15px;
+	color: #f0f8fb;
+	padding: 30px 0px 30px 0px
+}
+
+.footer > .box-10 > .carts > .information > .links > h3,
+.footer > .box-10 > .carts > .information > .about > h3,
+.footer > .box-10 > .carts > .information > .contact > h3 {
+	font-family: 'Roboto', sans-serif;
+	font-size: 13px;
+	color: #a8b9c0;
+	padding: 12px;
+}
+
+.footer > .box-10 > .carts > .information > .contact > h3 {
+	padding: 20px;
+}
+
+.footer > .box-10 > .carts > .information > .contact > .button .headline_button {
+	width: 300px;
+	height: 45px;
+	background-color: #ff3150;
+	border-radius: 20px;
+	color: #ffc501;
+	font-family: 'Roboto', sans-serif;
+	font-size: 13px;
+	font-weight:500;
+	border: 1px solid black;
+}
+
+.footer > .box-10 > .carts > .information > .contact > .icons > {
+	width: 250px;
+	height: 100px;
+}
+
+.footer > .box-10 > .carts > .information > .contact > .icons > ul {
+ 	text-align: center;
+	padding: 30px 12px 0px 0px;
+}
+
+.footer > .box-10 > .carts > .information > .contact > .icons > ul > li  {
+	display: inline-block;
+	margin: 0 10px;
+	font-size: 24px;
+}
+
+.footer > .box-10 > .carts > .information > .contact > .icons > ul > li >  a {
+	text-decoration: none;
+}
+
+/* ICONS */
+
+.footer > .box-10 > .carts > .information > .contact > .icons > ul > li  > a > i.icon-facebook {
+	color: #347cd2;
+}
+
+.footer > .box-10 > .carts > .information > .contact > .icons > ul > li > a > i.icon-twitter {
+	color: #1ec4ff;
+}
+
+.footer > .box-10 > .carts > .information > .contact > .icons > ul > li > a > i.icon-google-plus {
+	color: #ff4032;
+}
+
+.footer > .box-10 > .carts > .information > .contact > .icons > ul > li > a > i.icon-dribbble {
+	color:  #ff3298;
+}
+
+

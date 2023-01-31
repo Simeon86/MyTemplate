@@ -1,0 +1,119 @@
+.box-4 {
+	max-width: 1170px;
+	height: 740px;
+	width: 100%;
+	background-color: #fff;
+	margin: 0 auto;
+}
+
+.box-4 > .title > h2 > .fa-sitemap {
+	text-align: center;
+	color: #ffc400;
+	padding: 60px 0px 50px 0px;
+}
+
+.box-4 > .title > h2 {
+	font-size: 35px;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 500;
+	padding-bottom: 0px;
+}
+
+.box-4 > .title > h3 {
+	font-size: 15px;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+	color: #a8b9c0;
+	position: relative;
+	top: 20px;
+}
+
+#monitor > .box-4 > .wrapper {
+	text-align: center;
+	display: block;
+	margin: 0 auto;
+}
+
+#monitor > .box-4 > .wrapper > .logo {
+	width: 77px;
+	height: 57px;
+	background-color: #ffc400;
+}
+
+#monitor > .box-4 > .wrapper > h1 {
+	font-size: 35px;
+	color: #1a2940;
+	font-weight: 500;
+	font-family: "Roboto";
+}
+
+#monitor > .box-4 > .wrapper > h3 {
+	font-size: 15px;
+	color: #a8b9c0;
+	font-weight: 400;
+	font-family: "Roboto";
+}
+
+#monitor > .box-4 > .wrapper > hr {
+	width: 150px;
+	height: 1px;
+	background-color: #00c6bf;
+}
+
+#monitor > .box-4 > .wrapper > .donec {
+	width: 572px;
+	height: 61px;
+	font-size: 15px;
+	color: #a8b9c0;
+	font-weight: 300;
+	font-family: "Roboto";
+	text-align: center;
+	margin: 0 auto;
+}
+
+#monitor > .box-4 > .wrapper > h2 {
+	font-size: 35px;
+	color: #1a2940;
+	font-weight: 500;
+	font-family: "Roboto";
+	margin-top: 150px;
+	margin-left: 37.5px;
+	text-align: left;
+}
+
+#monitor > .box-4 > .wrapper > .lorem {
+	width: 386px;
+	height: 151px;
+	font-size: 15px;
+	color: #a8b9c0;
+	font-weight: 300;
+	font-family: "Roboto";
+	text-align: left;
+	margin-left: 37.5px;
+	display: block;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+#monitor > .box-4 > .wrapper > .order {
+	font-size: 15px;
+	color: #ffc501;
+	font-weight: 500;
+	font-family: "Roboto";
+	width: 208px;
+	height: 45px;
+	border-radius: 20px;
+	background-color: #ff3150;
+	display: block;
+	margin-left: 37.5px;
+	margin-top: 15px;
+}
+
+#monitor > .box-4 > .wrapper > .macbook {
+	margin-top: -350px;
+	margin-right: -300px;
+	width: 700px;
+	height: auto;
+}

@@ -1,0 +1,52 @@
+.box-6 {
+	max-width: 1170px;
+	height: 180px;
+	width: 100%;
+	background-color: #fff;
+	margin: 0 auto;
+}
+
+.box-6 > .row {
+	width: 100%;
+	text-align: center;
+}
+
+.box-6 > .row > .img {
+	float: left;
+	padding: 50px;
+}
+
+.box-6 > .row > .montreal > img {
+	height: 60px;
+	width: 65px;
+}
+
+.box-6 > .row > .lab > img {
+	height: 60px;
+	width: 65px;
+}
+
+.box-6 > .row > .images {
+	float: right;
+	padding: 50px;
+}
+
+.box-6 > .row > .music > img {
+	height: 60px;
+	width: 65px;
+}
+
+.box-6 > .row > .star > img {
+	height: 60px;
+	width: 65px;
+}
+
+.box-6 > .row > .music > img {
+	height: 60px;
+	width: 65px;
+}
+
+.box-6 > .row > .music > img {
+	height: 60px;
+	width: 65px;
+}

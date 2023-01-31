@@ -1,0 +1,134 @@
+#blog > .box-8 {
+	max-width: 1170px;
+	height: 650px;
+	width: 100%;
+	background-color: #fff;
+	margin: 0 auto;
+}
+
+#blog > .box-8 > .headline > h2 > .fa-sitemap {
+	text-align: center;
+	color: #ffc400;
+	padding: 70px 0px 50px 0px;
+}
+
+#blog > .box-8 > .headline > h2 {
+	font-size: 35px;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 500;
+	padding-bottom: 20px;
+}
+
+#blog > .box-8 > .headline > h3 {
+	font-size: 15px;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+	color: #a8b9c0;
+	position: relative;
+}
+
+#blog > .box-8 > .headline > h3::after {
+	content: '';
+	height: 1px;
+	width: 10%;
+	background-color: #00c6bf;
+	position: absolute;
+	left: calc(50% - 5%);
+	bottom: -20px;
+}
+
+#blog > .box-8 > .wrap {
+	width: 100%;
+} 
+
+
+#blog > .box-8 > .wrap > .design {
+	float: left;
+	width: 33.3333%;
+	padding-top: 60px;
+	padding-bottom: 20px;
+}
+
+#blog > .box-8 > .wrap > .design > .number {
+	
+	height: 130px;
+	width: 370px;
+	margin: 10px;
+	background-color: #eff7fa;
+	text-align: center;
+	font-family: 'Oswald', sans-serif;
+	color: #eff7fa;
+	position: static;
+}
+
+#blog > .box-8 > .wrap > .design > .number > .icon > .fa-pen {
+	color: #00c5bf;
+	font-size: 59px;
+	position: relative;
+	text-align: center;
+	bottom: 200px;
+}
+
+#blog > .box-8 > .wrap > .design > h3 {
+	bottom: 200px;
+	position: relative;
+	text-align: center;
+	font-size: 20px;
+	color: #ffc501;
+	padding-top: 37px;
+	padding-bottom: 40px;
+}
+
+#blog > .box-8 > .wrap > .design > p {
+	bottom: 200px;
+	position: relative;
+	width: 303px;
+	/*height: 74px;*/
+	font-size: 15px;
+	line-height: 30px;
+	color: #ffc501;
+	/*font-weight: 400;*/
+	font-family: "Roboto";
+	text-align: center;
+}
+
+#blog > .box-8 > .wrap > .design > .number > .icon > .fa-tv {
+	color: #00c5bf;
+	font-size: 59px;
+	position: relative;
+	text-align: center;
+	bottom: 200px;
+}
+
+#blog > .box-8 > .wrap > .design > .number > .icon > .fa-plug {
+	color: #00c5bf;
+	font-size: 59px;
+	position: relative;
+	text-align: center;
+	bottom: 200px;
+}
+
+#blog > .box-8 > .wrap > .design > h2 {
+	color: #a8b9c0;
+	font-size: 13px;
+}
+
+#blog > .box-8 > .wrap > .design > h4 {
+	color: #1a2940;
+	font-size: 20px;
+}
+
+#blog > .box-8 > .button input.headline_button {
+	width: 190px;
+	height: 45px;
+	background-color: #ff3150;
+	border-radius: 20px;
+	color: #ffc501;
+	font-family: 'Roboto', sans-serif;
+	font-size: 15px;
+	font-weight:500;
+	border: 1px solid black;
+	margin: 50px 0px 0px 480px;
+}

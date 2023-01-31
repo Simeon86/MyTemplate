@@ -1,0 +1,70 @@
+
+.header {
+	width: 100%;
+	
+}
+
+#header {
+	height: 500px;
+	background-color: #19283f;
+}
+
+#design {
+	width: 100%;
+	background-color: #ffffff;
+}
+
+#squareds {
+	width: 100%;
+	background-color: #eff7fa;
+}
+
+#monitor {
+	width: 100%;
+	background-color: #ffffff;
+}
+
+#team {
+	width: 100%;
+	background-color: #eff7fa;
+}
+
+#clients {
+	width: 100%;
+	background-color: #fff;
+}
+
+#new-project {
+	width: 100%;
+	background-color: #19283f;
+}
+
+#blog {
+	width: 100%;
+	background-color: #fff;
+}
+
+#email {
+	width: 100%;
+	background-color: #ffc400;
+}
+
+.footer {
+	width: 100%;
+	background-color: #19283f;
+}
+
+h1	{
+	font-size: 2.5em;
+}
+
+.clear_both:after {
+	display: block;
+	content: '';
+	clear: both;
+}
+
+
+
+
+

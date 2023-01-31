@@ -1,0 +1,20 @@
+/*Global*/
+@import url('bootstrap.css');
+@import url('reset.css');
+
+/*Project Components*/
+@import url('fonts.css');
+@import url('general.css');
+@import url('header.css');
+@import url('content.css');
+@import url('footer.css');
+@import url('box-2.css');
+@import url('boxes.css');
+@import url('box-3.css');
+@import url('box-4.css');
+@import url('box-5.css');
+@import url('box-6.css');
+@import url('box-7.css');
+@import url('box-8.css');
+@import url('box-9.css');
+@import url('custom-fonts.css');
